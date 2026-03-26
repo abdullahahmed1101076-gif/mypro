@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/root/mypro/wwwroot/folder/Abdullah_Ahmed_dev_CV.pdf",
+      "PackagePath": "staticwebassets/folder/Abdullah_Ahmed_dev_CV.pdf"
+    },
+    {
       "Id": "/root/mypro/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0cNmAlapBdS4RyuO7ZCIDxw+vwuQLic0ADiC8WGjPqY=",
+  "Hash": "08L2QY1l7yP5oVln7wnkR5060uqDeRnzNtzz3uX+2Dg=",
   "Source": "app",
   "BasePath": "_content/app",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/root/mypro/wwwroot/folder/Abdullah_Ahmed_dev_CV.pdf",
+      "SourceId": "app",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/mypro/wwwroot/",
+      "BasePath": "_content/app",
+      "RelativePath": "folder/Abdullah_Ahmed_dev_CV.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/folder/Abdullah_Ahmed_dev_CV.pdf"
     },
     {
       "Identity": "/root/mypro/wwwroot/js/site.js",
